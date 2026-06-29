@@ -24,7 +24,7 @@ function HeroSection({ travelPackage }) {
   return (
     <Box className="package-hero">
       <Container maxWidth="lg">
-        <Grid container spacing={5} alignItems="center">
+        <Grid container  spacing={{ xs: 4, md: 5 }} alignItems="center">
           <Grid size={{ xs: 12, md: 6 }}>
             <img
               src={travelPackage.coverImage}
