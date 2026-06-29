@@ -1,0 +1,23 @@
+.my-bookings-page{
+    padding:40px 0 60px;
+}
+
+.my-bookings-title{
+    font-weight:700 !important;
+    margin-bottom:8px !important;
+}
+
+.my-bookings-subtitle{
+    color:#6b7280;
+    margin-bottom:36px !important;
+}
+
+.booking-placeholder {
+  border-radius: 16px !important;
+  min-height: 220px;
+}
+
+.booking-placeholder-content {
+  padding: 24px;
+  font-weight: 600;
+}

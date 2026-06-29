@@ -1,0 +1,16 @@
+.excluded-section {
+  height: 100%;
+  padding: 30px;
+  border: 1px solid #e5edf4;
+  border-radius: 18px !important;
+}
+
+.excluded-title {
+  margin-bottom: 24px !important;
+  color: #17324d;
+  font-weight: 800 !important;
+}
+
+.excluded-icon {
+  color: #dc2626;
+}

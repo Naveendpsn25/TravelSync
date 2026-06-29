@@ -1,0 +1,129 @@
+.popular-destinations {
+  padding: 40px 0;
+  background-color: #f7fafc;
+}
+
+.popular-destinations-heading {
+  max-width: 700px;
+  margin: 0 auto 42px;
+}
+
+.section-eyebrow {
+  color: #0f9d8a;
+  font-size: 0.78rem !important;
+  font-weight: 800 !important;
+  letter-spacing: 1.8px !important;
+}
+
+.section-title {
+  color: #17324d;
+  font-size: clamp(2rem, 3.2vw, 2.8rem) !important;
+  font-weight: 800 !important;
+  line-height: 1.2 !important;
+  letter-spacing: -0.8px !important;
+}
+
+.section-description {
+  max-width: 620px;
+  color: #50677a;
+  font-size: 1rem !important;
+  line-height: 1.75 !important;
+}
+
+.destination-card {
+  position: relative !important;
+  display: block !important;
+  width: 100%;
+  min-height: 315px;
+  overflow: hidden;
+  border-radius: 18px !important;
+  text-align: left !important;
+  color: #ffffff !important;
+}
+
+.destination-card-image {
+  position: absolute;
+  inset: 0;
+  background-position: center;
+  background-size: cover;
+  transition: transform 0.45s ease;
+}
+
+.destination-card:hover .destination-card-image {
+  transform: scale(1.07);
+}
+
+.destination-card-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(8, 30, 46, 0.05) 10%,
+    rgba(8, 30, 46, 0.85) 100%
+  );
+}
+
+.destination-card-content {
+  position: relative;
+  z-index: 1;
+  justify-content: flex-end;
+  min-height: 315px;
+  padding: 26px;
+}
+
+.destination-card-name {
+  color: #ffffff;
+  font-size: 1.65rem !important;
+  font-weight: 800 !important;
+}
+
+.destination-card-country {
+  color: #9eeadd;
+  font-size: 0.86rem !important;
+  font-weight: 700 !important;
+}
+
+.destination-card-tagline {
+  max-width: 280px;
+  color: #e8f3f8;
+  font-size: 0.92rem !important;
+  line-height: 1.55 !important;
+}
+
+.destination-card-action {
+  margin-top: 8px;
+  color: #ffffff;
+}
+
+.destination-card-action .MuiTypography-root {
+  font-size: 0.88rem !important;
+  font-weight: 700 !important;
+}
+
+.destination-card-action svg {
+  font-size: 18px;
+  transition: transform 0.2s ease;
+}
+
+.destination-card:hover .destination-card-action svg {
+  transform: translateX(4px);
+}
+
+@media (max-width: 600px) {
+  .popular-destinations {
+    padding: 40px 0;
+  }
+
+  .popular-destinations-heading {
+    margin-bottom: 30px;
+  }
+
+  .destination-card,
+  .destination-card-content {
+    min-height: 285px;
+  }
+
+  .destination-card-content {
+    padding: 22px;
+  }
+}

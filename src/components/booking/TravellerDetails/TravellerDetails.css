@@ -1,0 +1,42 @@
+.traveller-details {
+  width: 100%;
+}
+
+.traveller-details-title {
+  font-weight: 700 !important;
+  margin-top: 20px !important;
+}
+
+.traveller-details-subtitle {
+  color: #6b7280;
+  margin-bottom: 32px !important;
+  line-height: 1.6 !important;
+}
+
+.traveller-details-form {
+  width: 100%;
+}
+
+.traveller-details-form .MuiTextField-root {
+  width: 100%;
+}
+
+@media (max-width: 900px) {
+  .traveller-details-title {
+    font-size: 2rem !important;
+  }
+
+  .traveller-details-subtitle {
+    margin-bottom: 24px !important;
+  }
+}
+
+@media (max-width: 600px) {
+  .traveller-details-title {
+    font-size: 1.7rem !important;
+  }
+
+  .traveller-details-subtitle {
+    font-size: 0.95rem !important;
+  }
+}

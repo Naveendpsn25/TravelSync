@@ -1,0 +1,9 @@
+.booking-stepper {
+  margin: 40px 0;
+}
+
+.booking-stepper-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 35px;
+}

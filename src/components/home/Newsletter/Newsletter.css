@@ -1,0 +1,87 @@
+.newsletter {
+  padding: 76px 0;
+  background-color: #0b5d7a;
+}
+
+.newsletter-content {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(380px, 0.9fr);
+  align-items: center;
+  gap: 52px;
+}
+
+.newsletter-eyebrow {
+  margin-bottom: 12px !important;
+  color: #8ee4d5;
+  font-size: 0.84rem !important;
+  font-weight: 800 !important;
+  letter-spacing: 2px !important;
+}
+
+.newsletter-title {
+  margin-bottom: 14px !important;
+  color: #ffffff;
+  font-size: clamp(2rem, 3.5vw, 3rem) !important;
+  font-weight: 800 !important;
+  line-height: 1.15 !important;
+}
+
+.newsletter-description {
+  max-width: 620px;
+  color: #d8edf4;
+  font-size: 1rem !important;
+  line-height: 1.8 !important;
+}
+
+.newsletter-form {
+  display: flex;
+  align-items: stretch;
+  gap: 12px;
+}
+
+.newsletter-input {
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.newsletter-input .MuiOutlinedInput-root {
+  border-radius: 10px;
+}
+
+.newsletter-button {
+  min-width: 142px;
+  border-radius: 10px !important;
+  background-color: #f97316 !important;
+  box-shadow: none !important;
+  font-weight: 800 !important;
+  white-space: nowrap;
+}
+
+.newsletter-button:hover {
+  background-color: #ea580c !important;
+}
+
+@media (max-width: 900px) {
+  .newsletter-content {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+
+  .newsletter-form {
+    max-width: 620px;
+  }
+}
+
+@media (max-width: 600px) {
+  .newsletter {
+    padding: 62px 0;
+  }
+
+  .newsletter-form {
+    flex-direction: column;
+  }
+
+  .newsletter-button {
+    min-height: 52px;
+  }
+}

@@ -1,0 +1,16 @@
+.included-section {
+  height: 100%;
+  padding: 30px;
+  border: 1px solid #e5edf4;
+  border-radius: 18px !important;
+}
+
+.included-title {
+  margin-bottom: 24px !important;
+  color: #17324d;
+  font-weight: 800 !important;
+}
+
+.included-icon {
+  color: #16a34a;
+}

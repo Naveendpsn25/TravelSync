@@ -1,0 +1,12 @@
+.available-dates-section {
+  margin-top: 40px;
+  padding: 35px;
+  border: 1px solid #e5edf4;
+  border-radius: 18px !important;
+}
+
+.available-dates-title {
+  margin-bottom: 24px !important;
+  color: #17324d;
+  font-weight: 800 !important;
+}

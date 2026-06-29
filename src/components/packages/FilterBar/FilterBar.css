@@ -1,0 +1,21 @@
+.filter-bar {
+  margin-bottom: 35px;
+  padding: 24px;
+  border: 1px solid #e5edf4;
+  border-radius: 18px !important;
+  background-color: #ffffff;
+}
+
+.filter-bar-actions {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+
+.filter-bar .MuiOutlinedInput-root {
+  border-radius: 12px;
+}
+
+.filter-bar .MuiButton-root {
+  font-weight: 700;
+}

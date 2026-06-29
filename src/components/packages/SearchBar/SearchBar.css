@@ -1,0 +1,27 @@
+.search-bar-container {
+  margin-bottom: 40px;
+}
+
+.search-bar-paper {
+  border: 1px solid #dbe4ec;
+  border-radius: 14px !important;
+  overflow: hidden;
+}
+
+.search-bar-paper .MuiOutlinedInput-root {
+  background-color: #ffffff;
+  border-radius: 14px;
+}
+
+.search-bar-paper .MuiOutlinedInput-notchedOutline {
+  border: none;
+}
+
+.search-bar-paper .MuiInputBase-input {
+  padding: 16px 14px;
+  font-size: 1rem;
+}
+
+.search-bar-paper .MuiInputAdornment-root {
+  color: #7b8e9f;
+}

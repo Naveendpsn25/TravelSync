@@ -1,0 +1,64 @@
+.booking-success-dialog {
+  padding: 36px !important;
+  text-align: center;
+}
+
+.success-icon {
+  font-size: 72px !important;
+  color: #2e7d32;
+  margin-bottom: 16px;
+}
+
+.success-title {
+  font-weight: 700 !important;
+  margin-bottom: 12px !important;
+}
+
+.success-subtitle {
+  color: #6b7280;
+  margin-bottom: 30px !important;
+}
+
+.booking-details-box {
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+.detail-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 14px;
+}
+
+.detail-row:last-child {
+  margin-bottom: 0;
+}
+
+.detail-label {
+  color: #6b7280;
+  font-weight: 500 !important;
+}
+
+.detail-value {
+  font-weight: 600 !important;
+}
+
+.dialog-buttons {
+  margin-top: 12px;
+}
+
+@media (max-width: 600px) {
+
+  .booking-success-dialog {
+    padding: 24px !important;
+  }
+
+  .detail-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+  }
+
+}

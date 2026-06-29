@@ -1,0 +1,24 @@
+.package-not-found {
+  min-height: 70vh;
+
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+  align-items: center;
+
+  text-align: center;
+}
+
+.package-not-found-title {
+  margin-bottom: 20px !important;
+  color: #17324d;
+  font-weight: 800 !important;
+}
+
+.package-not-found-description {
+  max-width: 550px;
+  margin-bottom: 35px !important;
+  color: #5f7285;
+  line-height: 1.8 !important;
+}

@@ -1,0 +1,34 @@
+.highlights-section {
+  margin-top: 40px;
+  padding: 35px;
+  border: 1px solid #e5edf4;
+  border-radius: 18px !important;
+}
+
+.highlights-title {
+  margin-bottom: 28px !important;
+  color: #17324d;
+  font-weight: 800 !important;
+}
+
+.highlight-card {
+  height: 100%;
+  padding: 18px;
+  border: 1px solid #e5edf4;
+  border-radius: 12px !important;
+  transition: 0.3s;
+}
+
+.highlight-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+.highlight-icon {
+  color: #0f9d8a;
+}
+
+.highlight-text {
+  font-weight: 600 !important;
+  color: #17324d;
+}

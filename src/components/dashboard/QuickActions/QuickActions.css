@@ -1,0 +1,40 @@
+.quick-actions-section {
+  margin-top: 40px;
+}
+
+.quick-actions-title {
+  margin-bottom: 20px !important;
+  font-weight: 700 !important;
+  color: #183b56;
+}
+
+.quick-action-card {
+  border-radius: 18px !important;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08) !important;
+  transition: all 0.3s ease;
+  height: 100%;
+}
+
+.quick-action-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.14) !important;
+}
+
+.quick-action-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 170px;
+}
+
+.quick-action-icon {
+  color: #1976d2;
+  margin-bottom: 18px;
+}
+
+.quick-action-text {
+  font-weight: 600 !important;
+  color: #183b56;
+  text-align: center;
+}

@@ -1,0 +1,30 @@
+.about-section {
+  margin-top: 40px;
+  padding: 35px;
+  border: 1px solid #e5edf4;
+  border-radius: 18px !important;
+}
+
+.about-section-title {
+  margin-bottom: 20px !important;
+  color: #17324d;
+  font-weight: 800 !important;
+}
+
+.about-section-description {
+  color: #5f7285;
+  font-size: 1rem !important;
+  line-height: 1.9 !important;
+  text-align: justify;
+}
+
+@media (max-width: 600px) {
+  .about-section {
+    padding: 24px;
+    margin-top: 30px;
+  }
+
+  .about-section-title {
+    font-size: 1.8rem !important;
+  }
+}

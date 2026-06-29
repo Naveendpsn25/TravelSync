@@ -1,0 +1,67 @@
+.review-booking {
+  width: 100%;
+}
+
+.review-title {
+  font-weight: 700 !important;
+  margin-top: 20px !important;
+}
+
+.review-subtitle {
+  color: #6b7280;
+  margin-bottom: 32px !important;
+  line-height: 1.6 !important;
+}
+
+.review-card,
+.review-total-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 12px !important;
+  padding: 24px;
+  margin-bottom: 24px;
+}
+
+.review-section-title {
+  font-weight: 600 !important;
+  margin-bottom: 16px !important;
+}
+
+.review-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.review-label {
+  color: #6b7280;
+  font-weight: 500 !important;
+}
+
+.review-value {
+  font-weight: 600 !important;
+  text-align: right;
+}
+
+.review-total-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.review-total-price {
+  color: #0b5d7a;
+  font-weight: 700 !important;
+}
+
+@media (max-width: 600px) {
+  .review-row,
+  .review-total-card {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+
+  .review-value {
+    text-align: left;
+  }
+}

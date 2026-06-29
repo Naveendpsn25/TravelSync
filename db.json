@@ -1,0 +1,1510 @@
+{
+  "packages": [
+    {
+      "id": "1",
+      "title": "Explore Bali Paradise",
+      "location": "Bali",
+      "country": "Indonesia",
+      "category": "Beach",
+      "price": 45999,
+      "duration": 6,
+      "rating": 4.8,
+      "reviewCount": 248,
+      "coverImage": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2",
+      "gallery": [
+        "https://images.unsplash.com/photo-1537996194471-e657df975ab4",
+        "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2",
+        "https://images.unsplash.com/photo-1555400113-4961b6c9a3a2"
+      ],
+      "description": "Experience the beauty of Bali with pristine beaches, ancient temples, lush rice terraces, and unforgettable sunsets. Perfect for couples, families, and adventure seekers.",
+      "highlights": [
+        "Uluwatu Temple Visit",
+        "Nusa Penida Island Tour",
+        "Traditional Balinese Dance Show",
+        "Private Beach Resort Stay",
+        "Sunset at Tanah Lot Temple"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival in Bali",
+          "description": "Airport pickup, hotel check-in, and leisure evening."
+        },
+        {
+          "day": 2,
+          "title": "Temple & Cultural Tour",
+          "description": "Visit famous temples and explore Balinese culture."
+        },
+        {
+          "day": 3,
+          "title": "Island Adventure",
+          "description": "Full-day Nusa Penida island sightseeing."
+        },
+        {
+          "day": 4,
+          "title": "Beach Activities",
+          "description": "Water sports and relaxing beach time."
+        },
+        {
+          "day": 5,
+          "title": "Shopping & Leisure",
+          "description": "Explore local markets and enjoy free time."
+        },
+        {
+          "day": 6,
+          "title": "Departure",
+          "description": "Breakfast and airport transfer."
+        }
+      ],
+      "included": [
+        "Luxury Hotel Accommodation",
+        "Daily Breakfast",
+        "Airport Pickup & Drop",
+        "Guided Sightseeing",
+        "Local Transportation"
+      ],
+      "excluded": [
+        "International Flights",
+        "Lunch & Dinner",
+        "Personal Expenses",
+        "Travel Insurance"
+      ],
+      "availableDates": [
+        "2026-07-10",
+        "2026-08-15",
+        "2026-09-12",
+        "2026-10-18"
+      ],
+      "featured": true
+    },
+    {
+      "id": "2",
+      "title": "Dubai Luxury Escape",
+      "location": "Dubai",
+      "country": "United Arab Emirates",
+      "category": "Luxury",
+      "price": 68999,
+      "duration": 5,
+      "rating": 4.9,
+      "reviewCount": 382,
+      "coverImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
+      "gallery": [
+        "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
+        "https://images.unsplash.com/photo-1526495124232-a04e1849168c",
+        "https://images.unsplash.com/photo-1546412414-8035e1776c9a"
+      ],
+      "description": "Discover the glamour of Dubai with world-famous skyscrapers, luxurious shopping malls, thrilling desert adventures, and breathtaking waterfront attractions. Experience a perfect blend of modern architecture, rich culture, and unforgettable entertainment.",
+      "highlights": [
+        "Visit Burj Khalifa Observation Deck",
+        "Desert Safari with BBQ Dinner",
+        "Dubai Marina Cruise",
+        "Dubai Mall and Fountain Show",
+        "Palm Jumeirah Sightseeing Tour"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival in Dubai",
+          "description": "Airport pickup, hotel check-in, and evening visit to Dubai Marina."
+        },
+        {
+          "day": 2,
+          "title": "City Exploration",
+          "description": "Visit Burj Khalifa, Dubai Mall, Aquarium, and enjoy the fountain show."
+        },
+        {
+          "day": 3,
+          "title": "Desert Adventure",
+          "description": "Experience dune bashing, camel rides, cultural performances, and BBQ dinner."
+        },
+        {
+          "day": 4,
+          "title": "Palm Jumeirah & Leisure",
+          "description": "Explore Palm Jumeirah, Atlantis area, and enjoy shopping or optional activities."
+        },
+        {
+          "day": 5,
+          "title": "Departure",
+          "description": "Breakfast, hotel checkout, and airport transfer."
+        }
+      ],
+      "included": [
+        "4-Star Hotel Accommodation",
+        "Daily Breakfast",
+        "Airport Pickup & Drop",
+        "Guided City Tour",
+        "Desert Safari Experience"
+      ],
+      "excluded": [
+        "International Flights",
+        "Lunch & Dinner",
+        "Personal Expenses",
+        "Travel Insurance"
+      ],
+      "availableDates": [
+        "2026-07-15",
+        "2026-08-19",
+        "2026-09-16",
+        "2026-10-21"
+      ],
+      "featured": true
+    },
+    {
+      "id": "3",
+      "title": "Romantic Paris Getaway",
+      "location": "Paris",
+      "country": "France",
+      "category": "City",
+      "price": 74999,
+      "duration": 6,
+      "rating": 4.8,
+      "reviewCount": 421,
+      "coverImage": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+      "gallery": [
+        "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+        "https://images.unsplash.com/photo-1499856871958-5b9627545d1a",
+        "https://images.unsplash.com/photo-1431274172761-fca41d930114"
+      ],
+      "description": "Experience the timeless charm of Paris, where iconic landmarks, elegant boulevards, world-class museums, and delightful cafés create an unforgettable European holiday. Discover the perfect blend of romance, history, art, and culture in the City of Light.",
+      "highlights": [
+        "Eiffel Tower Guided Visit",
+        "Seine River Evening Cruise",
+        "Louvre Museum Tour",
+        "Montmartre & Sacré-Cœur Exploration",
+        "Champs-Élysées Shopping Experience"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival in Paris",
+          "description": "Airport pickup, hotel check-in, and an evening walk around the Eiffel Tower."
+        },
+        {
+          "day": 2,
+          "title": "Iconic Paris Landmarks",
+          "description": "Visit the Eiffel Tower, Arc de Triomphe, and enjoy shopping on Champs-Élysées."
+        },
+        {
+          "day": 3,
+          "title": "Art & History",
+          "description": "Explore the Louvre Museum and admire masterpieces including the Mona Lisa."
+        },
+        {
+          "day": 4,
+          "title": "Cultural Exploration",
+          "description": "Visit Montmartre, Sacré-Cœur Basilica, and explore charming Parisian streets."
+        },
+        {
+          "day": 5,
+          "title": "Seine River & Leisure",
+          "description": "Enjoy a scenic Seine River cruise followed by free time for shopping and local cafés."
+        },
+        {
+          "day": 6,
+          "title": "Departure",
+          "description": "Breakfast, hotel checkout, and airport transfer."
+        }
+      ],
+      "included": [
+        "4-Star Hotel Accommodation",
+        "Daily Breakfast",
+        "Airport Pickup & Drop",
+        "Guided City Sightseeing",
+        "Seine River Cruise Tickets"
+      ],
+      "excluded": [
+        "International Flights",
+        "Lunch & Dinner",
+        "Personal Expenses",
+        "Travel Insurance"
+      ],
+      "availableDates": [
+        "2026-07-20",
+        "2026-08-24",
+        "2026-09-21",
+        "2026-10-26"
+      ],
+      "featured": false
+    },
+    {
+      "id": "4",
+      "title": "Swiss Alps Adventure",
+      "location": "Interlaken",
+      "country": "Switzerland",
+      "category": "Mountain",
+      "price": 89999,
+      "duration": 7,
+      "rating": 4.9,
+      "reviewCount": 536,
+      "coverImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "gallery": [
+        "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b",
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+      ],
+      "description": "Escape to the breathtaking Swiss Alps and experience majestic snow-capped mountains, crystal-clear lakes, scenic train rides, and charming alpine villages. Perfect for nature lovers, adventure enthusiasts, and anyone seeking unforgettable mountain landscapes.",
+      "highlights": [
+        "Jungfraujoch - Top of Europe Excursion",
+        "Scenic Train Ride to Grindelwald",
+        "Lake Thun Boat Cruise",
+        "Harder Kulm Viewpoint Visit",
+        "Explore Lauterbrunnen Valley"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival in Interlaken",
+          "description": "Airport transfer, hotel check-in, and leisure walk through the beautiful town."
+        },
+        {
+          "day": 2,
+          "title": "Jungfraujoch Excursion",
+          "description": "Take the famous cogwheel train to Jungfraujoch and enjoy panoramic alpine views."
+        },
+        {
+          "day": 3,
+          "title": "Grindelwald Exploration",
+          "description": "Visit Grindelwald village and enjoy optional mountain adventure activities."
+        },
+        {
+          "day": 4,
+          "title": "Lake Thun Cruise",
+          "description": "Relax on a scenic cruise across Lake Thun and visit nearby lakeside villages."
+        },
+        {
+          "day": 5,
+          "title": "Lauterbrunnen Valley Tour",
+          "description": "Explore picturesque waterfalls, charming villages, and breathtaking landscapes."
+        },
+        {
+          "day": 6,
+          "title": "Harder Kulm & Shopping",
+          "description": "Visit Harder Kulm viewpoint followed by free time for shopping and local cuisine."
+        },
+        {
+          "day": 7,
+          "title": "Departure",
+          "description": "Breakfast, hotel checkout, and transfer to the airport."
+        }
+      ],
+      "included": [
+        "4-Star Hotel Accommodation",
+        "Daily Breakfast",
+        "Airport Pickup & Drop",
+        "Swiss Rail Excursion Pass",
+        "Guided Sightseeing Tours"
+      ],
+      "excluded": [
+        "International Flights",
+        "Lunch & Dinner",
+        "Personal Expenses",
+        "Travel Insurance"
+      ],
+      "availableDates": [
+        "2026-07-18",
+        "2026-08-22",
+        "2026-09-19",
+        "2026-10-24"
+      ],
+      "featured": true
+    },
+    {
+      "id": "5",
+      "title": "Maldives Island Retreat",
+      "location": "Malé",
+      "country": "Maldives",
+      "category": "Beach",
+      "price": 95999,
+      "duration": 5,
+      "rating": 5,
+      "reviewCount": 468,
+      "coverImage": "https://images.unsplash.com/photo-1573843981267-be1999ff37cd",
+      "gallery": [
+        "https://images.unsplash.com/photo-1573843981267-be1999ff37cd",
+        "https://images.unsplash.com/photo-1514282401047-d79a71a590e8",
+        "https://images.unsplash.com/photo-1540202404-a2f29016b523"
+      ],
+      "description": "Escape to the tropical paradise of the Maldives, where turquoise lagoons, white sandy beaches, luxurious overwater villas, and vibrant coral reefs create the perfect island vacation. Relax, unwind, and experience world-class hospitality surrounded by breathtaking ocean views.",
+      "highlights": [
+        "Luxury Overwater Villa Stay",
+        "Snorkeling at Coral Reefs",
+        "Sunset Dolphin Cruise",
+        "Private Beach Dinner Experience",
+        "Island Hopping Excursion"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival in Malé",
+          "description": "Airport pickup by speedboat, resort check-in, and enjoy a relaxing evening by the beach."
+        },
+        {
+          "day": 2,
+          "title": "Ocean Adventure",
+          "description": "Snorkel through colorful coral reefs and discover diverse marine life in crystal-clear waters."
+        },
+        {
+          "day": 3,
+          "title": "Island Exploration",
+          "description": "Visit nearby islands, experience local culture, and enjoy water sports at the resort."
+        },
+        {
+          "day": 4,
+          "title": "Luxury & Relaxation",
+          "description": "Relax at the spa, enjoy the infinity pool, and end the day with a romantic sunset cruise."
+        },
+        {
+          "day": 5,
+          "title": "Departure",
+          "description": "Breakfast, resort checkout, and transfer to Malé International Airport."
+        }
+      ],
+      "included": [
+        "Luxury Water Villa Accommodation",
+        "Daily Breakfast and Dinner",
+        "Airport Speedboat Transfers",
+        "Snorkeling Equipment",
+        "Sunset Dolphin Cruise"
+      ],
+      "excluded": [
+        "International Flights",
+        "Lunch",
+        "Personal Expenses",
+        "Travel Insurance"
+      ],
+      "availableDates": [
+        "2026-07-12",
+        "2026-08-16",
+        "2026-09-20",
+        "2026-10-25"
+      ],
+      "featured": true
+    },
+    {
+      "id": "6",
+      "title": "Singapore City Explorer",
+      "location": "Singapore",
+      "country": "Singapore",
+      "category": "City",
+      "price": 62999,
+      "duration": 5,
+      "rating": 4.7,
+      "reviewCount": 315,
+      "coverImage": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd",
+      "gallery": [
+        "https://images.unsplash.com/photo-1525625293386-3f8f99389edd",
+        "https://images.unsplash.com/photo-1508964942454-1a56651d54ac",
+        "https://images.unsplash.com/photo-1496939376851-89342e90adcd"
+      ],
+      "description": "Experience the vibrant city of Singapore, where futuristic architecture, lush gardens, cultural neighborhoods, and world-class attractions come together. Explore iconic landmarks, indulge in delicious cuisine, and enjoy a perfect blend of modern innovation and rich heritage.",
+      "highlights": [
+        "Marina Bay Sands SkyPark Visit",
+        "Gardens by the Bay Exploration",
+        "Sentosa Island Adventure",
+        "Universal Studios Singapore",
+        "Chinatown & Little India Cultural Tour"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival in Singapore",
+          "description": "Airport pickup, hotel check-in, and evening visit to Marina Bay waterfront."
+        },
+        {
+          "day": 2,
+          "title": "City Highlights",
+          "description": "Visit Marina Bay Sands, Merlion Park, and Gardens by the Bay."
+        },
+        {
+          "day": 3,
+          "title": "Sentosa Island",
+          "description": "Spend the day exploring Sentosa Island, beaches, and entertainment attractions."
+        },
+        {
+          "day": 4,
+          "title": "Universal Studios & Culture",
+          "description": "Enjoy thrilling rides at Universal Studios followed by visits to Chinatown and Little India."
+        },
+        {
+          "day": 5,
+          "title": "Departure",
+          "description": "Breakfast, hotel checkout, and airport transfer."
+        }
+      ],
+      "included": [
+        "4-Star Hotel Accommodation",
+        "Daily Breakfast",
+        "Airport Pickup & Drop",
+        "Guided City Tour",
+        "Universal Studios Entry Ticket"
+      ],
+      "excluded": [
+        "International Flights",
+        "Lunch & Dinner",
+        "Personal Expenses",
+        "Travel Insurance"
+      ],
+      "availableDates": [
+        "2026-07-22",
+        "2026-08-26",
+        "2026-09-23",
+        "2026-10-28"
+      ],
+      "featured": false
+    },
+    {
+      "id": "7",
+      "title": "Thailand Island Adventure",
+      "location": "Phuket",
+      "country": "Thailand",
+      "category": "Adventure",
+      "price": 54999,
+      "duration": 6,
+      "rating": 4.8,
+      "reviewCount": 397,
+      "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "gallery": [
+        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+        "https://images.unsplash.com/photo-1468413253725-0d5181091126",
+        "https://images.unsplash.com/photo-1483683804023-6ccdb62f86ef"
+      ],
+      "description": "Explore the tropical beauty of Phuket with its crystal-clear waters, stunning limestone islands, lively beaches, and exciting adventure activities. From island hopping to vibrant nightlife and authentic Thai cuisine, this package offers the perfect balance of relaxation and excitement.",
+      "highlights": [
+        "Phi Phi Islands Speedboat Tour",
+        "James Bond Island Excursion",
+        "Big Buddha Temple Visit",
+        "Patong Beach & Nightlife",
+        "Thai Cultural Show"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival in Phuket",
+          "description": "Airport pickup, hotel check-in, and relax at Patong Beach during the evening."
+        },
+        {
+          "day": 2,
+          "title": "Phi Phi Islands Tour",
+          "description": "Enjoy a full-day speedboat trip to the Phi Phi Islands with snorkeling and beach activities."
+        },
+        {
+          "day": 3,
+          "title": "James Bond Island",
+          "description": "Visit the famous James Bond Island and explore nearby caves and lagoons."
+        },
+        {
+          "day": 4,
+          "title": "City & Cultural Tour",
+          "description": "Explore Phuket Old Town, Big Buddha Temple, and local markets."
+        },
+        {
+          "day": 5,
+          "title": "Leisure & Entertainment",
+          "description": "Relax at the beach, enjoy optional water sports, and attend a traditional Thai cultural show."
+        },
+        {
+          "day": 6,
+          "title": "Departure",
+          "description": "Breakfast, hotel checkout, and transfer to Phuket International Airport."
+        }
+      ],
+      "included": [
+        "4-Star Hotel Accommodation",
+        "Daily Breakfast",
+        "Airport Pickup & Drop",
+        "Island Hopping Tour",
+        "Guided Sightseeing"
+      ],
+      "excluded": [
+        "International Flights",
+        "Lunch & Dinner",
+        "Personal Expenses",
+        "Travel Insurance"
+      ],
+      "availableDates": [
+        "2026-07-25",
+        "2026-08-29",
+        "2026-09-26",
+        "2026-10-30"
+      ],
+      "featured": true
+    },
+    {
+      "id": "8",
+      "title": "Japan Cherry Blossom Journey",
+      "location": "Tokyo",
+      "country": "Japan",
+      "category": "Cultural",
+      "price": 82999,
+      "duration": 7,
+      "rating": 4.9,
+      "reviewCount": 514,
+      "coverImage": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf",
+      "gallery": [
+        "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf",
+        "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
+        "https://images.unsplash.com/photo-1526481280695-3c4691f8c6d8"
+      ],
+      "description": "Immerse yourself in the beauty and traditions of Japan as you explore Tokyo's futuristic skyline, historic temples, peaceful gardens, and breathtaking cherry blossom parks. Experience authentic Japanese culture, delicious cuisine, efficient transportation, and unforgettable sightseeing throughout this memorable journey.",
+      "highlights": [
+        "Tokyo Skytree Observation Deck",
+        "Cherry Blossom Park Experience",
+        "Mount Fuji Day Excursion",
+        "Senso-ji Temple Visit",
+        "Shibuya Crossing & Shopping"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival in Tokyo",
+          "description": "Airport pickup, hotel check-in, and evening walk around Shibuya."
+        },
+        {
+          "day": 2,
+          "title": "Tokyo City Tour",
+          "description": "Visit Tokyo Skytree, Asakusa, Senso-ji Temple, and Ueno Park."
+        },
+        {
+          "day": 3,
+          "title": "Mount Fuji Excursion",
+          "description": "Take a full-day guided trip to Mount Fuji and Lake Kawaguchi."
+        },
+        {
+          "day": 4,
+          "title": "Culture & Gardens",
+          "description": "Explore Meiji Shrine, Imperial Palace Gardens, and traditional Japanese neighborhoods."
+        },
+        {
+          "day": 5,
+          "title": "Shopping & Entertainment",
+          "description": "Spend the day in Akihabara, Ginza, and Shibuya for shopping and local experiences."
+        },
+        {
+          "day": 6,
+          "title": "Leisure Day",
+          "description": "Enjoy free time for cafés, local cuisine, and optional attractions before a farewell dinner."
+        },
+        {
+          "day": 7,
+          "title": "Departure",
+          "description": "Breakfast, hotel checkout, and transfer to the airport."
+        }
+      ],
+      "included": [
+        "4-Star Hotel Accommodation",
+        "Daily Breakfast",
+        "Airport Pickup & Drop",
+        "Mount Fuji Guided Tour",
+        "City Sightseeing Pass"
+      ],
+      "excluded": [
+        "International Flights",
+        "Lunch & Dinner",
+        "Personal Expenses",
+        "Travel Insurance"
+      ],
+      "availableDates": [
+        "2026-07-28",
+        "2026-08-30",
+        "2026-09-27",
+        "2026-10-31"
+      ],
+      "featured": true
+    },
+    {
+      "id": "9",
+      "title": "Kerala Backwaters & Hill Escape",
+      "location": "Alleppey",
+      "country": "India",
+      "category": "Nature",
+      "price": 32999,
+      "duration": 6,
+      "rating": 4.8,
+      "reviewCount": 289,
+      "coverImage": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944",
+      "gallery": [
+        "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944",
+        "https://images.unsplash.com/photo-1593693411515-c20261bcad6e",
+        "https://images.unsplash.com/photo-1585135497273-1a86b09fe70e"
+      ],
+      "description": "Discover the serene beauty of Kerala with peaceful backwaters, lush tea plantations, misty hills, and vibrant local culture. Cruise through picturesque canals on a traditional houseboat, explore wildlife, and experience authentic South Indian hospitality throughout your unforgettable journey.",
+      "highlights": [
+        "Alleppey Houseboat Cruise",
+        "Munnar Tea Plantation Tour",
+        "Periyar Wildlife Sanctuary Visit",
+        "Kathakali Cultural Performance",
+        "Spice Garden Exploration"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival in Kochi",
+          "description": "Airport pickup, hotel check-in, and explore Fort Kochi and Marine Drive in the evening."
+        },
+        {
+          "day": 2,
+          "title": "Journey to Munnar",
+          "description": "Drive through scenic hills, waterfalls, and tea estates before checking into the resort."
+        },
+        {
+          "day": 3,
+          "title": "Munnar Sightseeing",
+          "description": "Visit tea plantations, Eravikulam National Park, and enjoy panoramic viewpoints."
+        },
+        {
+          "day": 4,
+          "title": "Periyar & Spice Gardens",
+          "description": "Explore Periyar Wildlife Sanctuary and visit famous spice plantations."
+        },
+        {
+          "day": 5,
+          "title": "Alleppey Backwaters",
+          "description": "Experience a traditional houseboat cruise with scenic backwater views and local cuisine."
+        },
+        {
+          "day": 6,
+          "title": "Departure",
+          "description": "Breakfast, hotel checkout, and transfer to Kochi Airport."
+        }
+      ],
+      "included": [
+        "4-Star Hotel Accommodation",
+        "One Night Deluxe Houseboat Stay",
+        "Daily Breakfast",
+        "Airport Pickup & Drop",
+        "Guided Sightseeing Tours"
+      ],
+      "excluded": [
+        "Airfare or Train Tickets",
+        "Lunch & Dinner (Except Houseboat Meals)",
+        "Personal Expenses",
+        "Travel Insurance"
+      ],
+      "availableDates": [
+        "2026-07-14",
+        "2026-08-18",
+        "2026-09-15",
+        "2026-10-20"
+      ],
+      "featured": false
+    },
+    {
+      "id": "10",
+      "title": "Kashmir Paradise Expedition",
+      "location": "Srinagar",
+      "country": "India",
+      "category": "Mountain",
+      "price": 41999,
+      "duration": 6,
+      "rating": 4.9,
+      "reviewCount": 364,
+      "coverImage": "https://images.unsplash.com/photo-1598091383021-15ddea10925d",
+      "gallery": [
+        "https://images.unsplash.com/photo-1598091383021-15ddea10925d",
+        "https://images.unsplash.com/photo-1595815771614-ade9d652a65d",
+        "https://images.unsplash.com/photo-1605640840605-14ac1855827b"
+      ],
+      "description": "Experience the breathtaking beauty of Kashmir, often called 'Paradise on Earth.' Cruise across the tranquil Dal Lake, stay in a traditional houseboat, explore colorful Mughal gardens, ride the famous Gulmarg Gondola, and witness snow-covered mountains, lush valleys, and charming local culture.",
+      "highlights": [
+        "Shikara Ride on Dal Lake",
+        "Gulmarg Gondola Experience",
+        "Pahalgam Valley Excursion",
+        "Mughal Gardens Sightseeing",
+        "Traditional Kashmiri Houseboat Stay"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival in Srinagar",
+          "description": "Airport pickup, check into a traditional houseboat, and enjoy a relaxing Shikara ride on Dal Lake."
+        },
+        {
+          "day": 2,
+          "title": "Srinagar City Tour",
+          "description": "Visit Mughal Gardens including Shalimar Bagh, Nishat Bagh, and Chashme Shahi."
+        },
+        {
+          "day": 3,
+          "title": "Gulmarg Adventure",
+          "description": "Travel to Gulmarg and enjoy the famous Gondola cable car with spectacular Himalayan views."
+        },
+        {
+          "day": 4,
+          "title": "Pahalgam Excursion",
+          "description": "Explore Betaab Valley, Aru Valley, and the scenic Lidder River surroundings."
+        },
+        {
+          "day": 5,
+          "title": "Local Markets & Leisure",
+          "description": "Shop for authentic Kashmiri handicrafts, dry fruits, saffron, and enjoy local cuisine."
+        },
+        {
+          "day": 6,
+          "title": "Departure",
+          "description": "Breakfast, hotel checkout, and airport transfer for your onward journey."
+        }
+      ],
+      "included": [
+        "Hotel & Houseboat Accommodation",
+        "Daily Breakfast",
+        "Airport Pickup & Drop",
+        "Shikara Ride",
+        "Guided Sightseeing Tours"
+      ],
+      "excluded": [
+        "Airfare",
+        "Lunch & Dinner",
+        "Personal Expenses",
+        "Travel Insurance"
+      ],
+      "availableDates": [
+        "2026-07-16",
+        "2026-08-21",
+        "2026-09-18",
+        "2026-10-23"
+      ],
+      "featured": true
+    },
+    {
+      "id": "11",
+      "title": "Goa Beach Bliss",
+      "location": "Goa",
+      "country": "India",
+      "category": "Beach",
+      "price": 28999,
+      "duration": 5,
+      "rating": 4.7,
+      "reviewCount": 412,
+      "coverImage": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2",
+      "gallery": [
+        "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2",
+        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+        "https://images.unsplash.com/photo-1500375592092-40eb2168fd21"
+      ],
+      "description": "Enjoy the vibrant charm of Goa with its golden beaches, Portuguese heritage, lively nightlife, thrilling water sports, and delicious seafood. Relax by the Arabian Sea, explore historic churches, and experience the perfect combination of adventure and leisure in India's most popular beach destination.",
+      "highlights": [
+        "Calangute & Baga Beach Tour",
+        "Dudhsagar Waterfalls Excursion",
+        "Fort Aguada Visit",
+        "Mandovi River Sunset Cruise",
+        "Old Goa Churches Exploration"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival in Goa",
+          "description": "Airport pickup, hotel check-in, and spend the evening relaxing at Calangute Beach."
+        },
+        {
+          "day": 2,
+          "title": "North Goa Sightseeing",
+          "description": "Visit Fort Aguada, Candolim Beach, Baga Beach, and enjoy exciting water sports."
+        },
+        {
+          "day": 3,
+          "title": "Dudhsagar Adventure",
+          "description": "Take a full-day trip to Dudhsagar Waterfalls and explore nearby spice plantations."
+        },
+        {
+          "day": 4,
+          "title": "South Goa Exploration",
+          "description": "Visit Old Goa churches, Miramar Beach, Dona Paula, and enjoy a sunset cruise on the Mandovi River."
+        },
+        {
+          "day": 5,
+          "title": "Departure",
+          "description": "Breakfast, hotel checkout, and transfer to Goa International Airport."
+        }
+      ],
+      "included": [
+        "4-Star Beach Resort Accommodation",
+        "Daily Breakfast",
+        "Airport Pickup & Drop",
+        "Guided Goa Sightseeing",
+        "Mandovi River Cruise"
+      ],
+      "excluded": [
+        "Airfare",
+        "Lunch & Dinner",
+        "Personal Expenses",
+        "Travel Insurance"
+      ],
+      "availableDates": [
+        "2026-07-19",
+        "2026-08-23",
+        "2026-09-20",
+        "2026-10-25"
+      ],
+      "featured": false
+    },
+    {
+      "id": "12",
+      "title": "Ladakh Himalayan Adventure",
+      "location": "Leh",
+      "country": "India",
+      "category": "Adventure",
+      "price": 52999,
+      "duration": 7,
+      "rating": 4.9,
+      "reviewCount": 341,
+      "coverImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      "gallery": [
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+        "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b",
+        "https://images.unsplash.com/photo-1441974231531-c6227db76b6e"
+      ],
+      "description": "Embark on an unforgettable adventure through the breathtaking landscapes of Ladakh. Witness snow-covered mountain passes, crystal-clear alpine lakes, ancient monasteries, and thrilling roads that make this Himalayan destination a paradise for nature lovers and adventure enthusiasts alike.",
+      "highlights": [
+        "Pangong Lake Excursion",
+        "Khardung La Pass Drive",
+        "Nubra Valley Camel Safari",
+        "Leh Palace & Shanti Stupa Visit",
+        "Hemis Monastery Exploration"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival in Leh",
+          "description": "Airport pickup, hotel check-in, and complete acclimatization with a relaxed evening."
+        },
+        {
+          "day": 2,
+          "title": "Leh Local Sightseeing",
+          "description": "Visit Leh Palace, Shanti Stupa, Hall of Fame Museum, and explore the local market."
+        },
+        {
+          "day": 3,
+          "title": "Nubra Valley Journey",
+          "description": "Cross the famous Khardung La Pass and reach Nubra Valley for an overnight stay."
+        },
+        {
+          "day": 4,
+          "title": "Nubra Valley Exploration",
+          "description": "Enjoy a Bactrian camel safari at Hunder Sand Dunes and visit Diskit Monastery."
+        },
+        {
+          "day": 5,
+          "title": "Pangong Lake Tour",
+          "description": "Travel to the stunning Pangong Lake and admire its ever-changing blue waters."
+        },
+        {
+          "day": 6,
+          "title": "Monastery Tour",
+          "description": "Visit Hemis Monastery, Thiksey Monastery, and Shey Palace before returning to Leh."
+        },
+        {
+          "day": 7,
+          "title": "Departure",
+          "description": "Breakfast, hotel checkout, and airport transfer."
+        }
+      ],
+      "included": [
+        "Hotel Accommodation",
+        "Daily Breakfast & Dinner",
+        "Airport Pickup & Drop",
+        "Private Transportation",
+        "Guided Sightseeing Tours"
+      ],
+      "excluded": [
+        "Airfare",
+        "Lunch",
+        "Personal Expenses",
+        "Travel Insurance"
+      ],
+      "availableDates": [
+        "2026-07-24",
+        "2026-08-28",
+        "2026-09-25",
+        "2026-10-29"
+      ],
+      "featured": true
+    },
+    {
+      "id": "13",
+      "title": "Cappadocia Fairy Chimneys Escape",
+      "location": "Cappadocia",
+      "country": "Turkey",
+      "category": "Adventure",
+      "price": 77999,
+      "duration": 6,
+      "rating": 4.9,
+      "reviewCount": 392,
+      "coverImage": "https://images.unsplash.com/photo-1519046904884-53103b34b206",
+      "gallery": [
+        "https://images.unsplash.com/photo-1641128326425-6d9b6d8f8b61",
+        "https://images.unsplash.com/photo-1519046904884-53103b34b206",
+        "https://images.unsplash.com/photo-1507608616759-54f48f0af0ee"
+      ],
+      "description": "Discover the magical landscapes of Cappadocia, famous for its fairy chimneys, ancient cave dwellings, colorful hot air balloons, and breathtaking valleys. Experience a unique blend of history, adventure, and natural beauty while exploring one of Turkey's most iconic destinations.",
+      "highlights": [
+        "Sunrise Hot Air Balloon Ride",
+        "Göreme Open Air Museum Tour",
+        "Underground City Exploration",
+        "Red & Rose Valley Hiking",
+        "Traditional Turkish Cultural Night"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival in Cappadocia",
+          "description": "Airport pickup, hotel check-in, and enjoy a peaceful evening overlooking the fairy chimneys."
+        },
+        {
+          "day": 2,
+          "title": "Hot Air Balloon Experience",
+          "description": "Witness a spectacular sunrise during a hot air balloon ride followed by a guided city tour."
+        },
+        {
+          "day": 3,
+          "title": "Historical Exploration",
+          "description": "Visit Göreme Open Air Museum, ancient cave churches, and local pottery workshops."
+        },
+        {
+          "day": 4,
+          "title": "Underground City Adventure",
+          "description": "Explore the fascinating underground city of Derinkuyu and nearby panoramic viewpoints."
+        },
+        {
+          "day": 5,
+          "title": "Valley Trek & Culture",
+          "description": "Hike through Red and Rose Valleys before enjoying a traditional Turkish music and dance performance."
+        },
+        {
+          "day": 6,
+          "title": "Departure",
+          "description": "Breakfast, hotel checkout, and transfer to the airport."
+        }
+      ],
+      "included": [
+        "Boutique Cave Hotel Accommodation",
+        "Daily Breakfast",
+        "Airport Pickup & Drop",
+        "Guided Sightseeing Tours",
+        "Hot Air Balloon Ride"
+      ],
+      "excluded": [
+        "International Flights",
+        "Lunch & Dinner",
+        "Personal Expenses",
+        "Travel Insurance"
+      ],
+      "availableDates": [
+        "2026-07-17",
+        "2026-08-20",
+        "2026-09-22",
+        "2026-10-27"
+      ],
+      "featured": false
+    },
+    {
+      "id": "14",
+      "title": "Santorini Sunset Romance",
+      "location": "Santorini",
+      "country": "Greece",
+      "category": "Luxury",
+      "price": 86999,
+      "duration": 6,
+      "rating": 4.9,
+      "reviewCount": 447,
+      "coverImage": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff",
+      "gallery": [
+        "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff",
+        "https://images.unsplash.com/photo-1469796466635-455ede028aca",
+        "https://images.unsplash.com/photo-1500375592092-40eb2168fd21"
+      ],
+      "description": "Experience the breathtaking beauty of Santorini, where whitewashed cliffside villages, blue-domed churches, volcanic beaches, and unforgettable sunsets create the perfect Mediterranean getaway. Discover charming streets, indulge in authentic Greek cuisine, and relax with spectacular views of the Aegean Sea.",
+      "highlights": [
+        "Sunset at Oia Village",
+        "Catamaran Cruise Around the Caldera",
+        "Red Beach & Black Sand Beach Visit",
+        "Wine Tasting at a Local Vineyard",
+        "Explore Fira's Cliffside Streets"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival in Santorini",
+          "description": "Airport pickup, hotel check-in, and enjoy an evening stroll through Fira with panoramic sea views."
+        },
+        {
+          "day": 2,
+          "title": "Oia & Sunset Tour",
+          "description": "Visit the picturesque village of Oia, explore boutique shops, and witness Santorini's world-famous sunset."
+        },
+        {
+          "day": 3,
+          "title": "Caldera Cruise",
+          "description": "Sail around the volcanic caldera, swim in hot springs, and enjoy a delicious meal onboard."
+        },
+        {
+          "day": 4,
+          "title": "Beach & Vineyard Experience",
+          "description": "Relax at Red Beach and Black Sand Beach before visiting a traditional Santorini winery."
+        },
+        {
+          "day": 5,
+          "title": "Leisure & Local Exploration",
+          "description": "Spend the day exploring charming villages, local cafés, and souvenir markets at your own pace."
+        },
+        {
+          "day": 6,
+          "title": "Departure",
+          "description": "Breakfast, hotel checkout, and airport transfer."
+        }
+      ],
+      "included": [
+        "Luxury Hotel Accommodation",
+        "Daily Breakfast",
+        "Airport Pickup & Drop",
+        "Caldera Catamaran Cruise",
+        "Guided Santorini Sightseeing"
+      ],
+      "excluded": [
+        "International Flights",
+        "Lunch & Dinner",
+        "Personal Expenses",
+        "Travel Insurance"
+      ],
+      "availableDates": [
+        "2026-07-26",
+        "2026-08-31",
+        "2026-09-28",
+        "2026-10-30"
+      ],
+      "featured": true
+    },
+    {
+      "id": "15",
+      "title": "Vietnam Heritage Discovery",
+      "location": "Hanoi",
+      "country": "Vietnam",
+      "category": "Cultural",
+      "price": 58999,
+      "duration": 7,
+      "rating": 4.8,
+      "reviewCount": 376,
+      "coverImage": "https://images.unsplash.com/photo-1528127269322-539801943592",
+      "gallery": [
+        "https://images.unsplash.com/photo-1528127269322-539801943592",
+        "https://images.unsplash.com/photo-1504457047772-27faf1c00561",
+        "https://images.unsplash.com/photo-1555921015-5532091f6026"
+      ],
+      "description": "Explore the rich heritage and breathtaking landscapes of Vietnam as you journey through the vibrant streets of Hanoi, the limestone islands of Ha Long Bay, and centuries-old temples. Enjoy authentic Vietnamese cuisine, scenic cruises, bustling local markets, and unforgettable cultural experiences throughout this incredible adventure.",
+      "highlights": [
+        "Ha Long Bay Overnight Cruise",
+        "Ho Chi Minh Mausoleum Visit",
+        "Hanoi Old Quarter Walking Tour",
+        "Traditional Vietnamese Water Puppet Show",
+        "Temple of Literature Exploration"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival in Hanoi",
+          "description": "Airport pickup, hotel check-in, and evening exploration of the lively Old Quarter."
+        },
+        {
+          "day": 2,
+          "title": "Hanoi City Tour",
+          "description": "Visit Ho Chi Minh Mausoleum, One Pillar Pagoda, Temple of Literature, and Hoan Kiem Lake."
+        },
+        {
+          "day": 3,
+          "title": "Journey to Ha Long Bay",
+          "description": "Travel to Ha Long Bay and board a luxury cruise while enjoying the spectacular limestone islands."
+        },
+        {
+          "day": 4,
+          "title": "Ha Long Bay Exploration",
+          "description": "Explore caves, kayak through emerald waters, and return to Hanoi in the evening."
+        },
+        {
+          "day": 5,
+          "title": "Culture & Shopping",
+          "description": "Visit local markets, enjoy authentic Vietnamese cuisine, and attend a traditional water puppet show."
+        },
+        {
+          "day": 6,
+          "title": "Leisure Day",
+          "description": "Enjoy free time to explore cafés, museums, or shop for local handicrafts and souvenirs."
+        },
+        {
+          "day": 7,
+          "title": "Departure",
+          "description": "Breakfast, hotel checkout, and transfer to Hanoi International Airport."
+        }
+      ],
+      "included": [
+        "4-Star Hotel Accommodation",
+        "Daily Breakfast",
+        "Airport Pickup & Drop",
+        "Ha Long Bay Cruise",
+        "Guided Sightseeing Tours"
+      ],
+      "excluded": [
+        "International Flights",
+        "Lunch & Dinner",
+        "Personal Expenses",
+        "Travel Insurance"
+      ],
+      "availableDates": [
+        "2026-07-30",
+        "2026-08-27",
+        "2026-09-29",
+        "2026-10-31"
+      ],
+      "featured": false
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "-HAbafeHrCY",
+      "title": "Dubai Luxury Escape",
+      "location": "Dubai",
+      "country": "United Arab Emirates",
+      "category": "Luxury",
+      "price": 68999,
+      "duration": 5,
+      "rating": 4.9,
+      "reviewCount": 382,
+      "coverImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
+      "gallery": [
+        "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
+        "https://images.unsplash.com/photo-1526495124232-a04e1849168c",
+        "https://images.unsplash.com/photo-1546412414-8035e1776c9a"
+      ],
+      "description": "Discover the glamour of Dubai with world-famous skyscrapers, luxurious shopping malls, thrilling desert adventures, and breathtaking waterfront attractions. Experience a perfect blend of modern architecture, rich culture, and unforgettable entertainment.",
+      "highlights": [
+        "Visit Burj Khalifa Observation Deck",
+        "Desert Safari with BBQ Dinner",
+        "Dubai Marina Cruise",
+        "Dubai Mall and Fountain Show",
+        "Palm Jumeirah Sightseeing Tour"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival in Dubai",
+          "description": "Airport pickup, hotel check-in, and evening visit to Dubai Marina."
+        },
+        {
+          "day": 2,
+          "title": "City Exploration",
+          "description": "Visit Burj Khalifa, Dubai Mall, Aquarium, and enjoy the fountain show."
+        },
+        {
+          "day": 3,
+          "title": "Desert Adventure",
+          "description": "Experience dune bashing, camel rides, cultural performances, and BBQ dinner."
+        },
+        {
+          "day": 4,
+          "title": "Palm Jumeirah & Leisure",
+          "description": "Explore Palm Jumeirah, Atlantis area, and enjoy shopping or optional activities."
+        },
+        {
+          "day": 5,
+          "title": "Departure",
+          "description": "Breakfast, hotel checkout, and airport transfer."
+        }
+      ],
+      "included": [
+        "4-Star Hotel Accommodation",
+        "Daily Breakfast",
+        "Airport Pickup & Drop",
+        "Guided City Tour",
+        "Desert Safari Experience"
+      ],
+      "excluded": [
+        "International Flights",
+        "Lunch & Dinner",
+        "Personal Expenses",
+        "Travel Insurance"
+      ],
+      "availableDates": [
+        "2026-07-15",
+        "2026-08-19",
+        "2026-09-16",
+        "2026-10-21"
+      ],
+      "featured": true,
+      "packageId": "2"
+    },
+    {
+      "id": "qiR2ApRMyUI",
+      "title": "Japan Cherry Blossom Journey",
+      "location": "Tokyo",
+      "country": "Japan",
+      "category": "Cultural",
+      "price": 82999,
+      "duration": 7,
+      "rating": 4.9,
+      "reviewCount": 514,
+      "coverImage": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf",
+      "gallery": [
+        "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf",
+        "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
+        "https://images.unsplash.com/photo-1526481280695-3c4691f8c6d8"
+      ],
+      "description": "Immerse yourself in the beauty and traditions of Japan as you explore Tokyo's futuristic skyline, historic temples, peaceful gardens, and breathtaking cherry blossom parks. Experience authentic Japanese culture, delicious cuisine, efficient transportation, and unforgettable sightseeing throughout this memorable journey.",
+      "highlights": [
+        "Tokyo Skytree Observation Deck",
+        "Cherry Blossom Park Experience",
+        "Mount Fuji Day Excursion",
+        "Senso-ji Temple Visit",
+        "Shibuya Crossing & Shopping"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival in Tokyo",
+          "description": "Airport pickup, hotel check-in, and evening walk around Shibuya."
+        },
+        {
+          "day": 2,
+          "title": "Tokyo City Tour",
+          "description": "Visit Tokyo Skytree, Asakusa, Senso-ji Temple, and Ueno Park."
+        },
+        {
+          "day": 3,
+          "title": "Mount Fuji Excursion",
+          "description": "Take a full-day guided trip to Mount Fuji and Lake Kawaguchi."
+        },
+        {
+          "day": 4,
+          "title": "Culture & Gardens",
+          "description": "Explore Meiji Shrine, Imperial Palace Gardens, and traditional Japanese neighborhoods."
+        },
+        {
+          "day": 5,
+          "title": "Shopping & Entertainment",
+          "description": "Spend the day in Akihabara, Ginza, and Shibuya for shopping and local experiences."
+        },
+        {
+          "day": 6,
+          "title": "Leisure Day",
+          "description": "Enjoy free time for cafés, local cuisine, and optional attractions before a farewell dinner."
+        },
+        {
+          "day": 7,
+          "title": "Departure",
+          "description": "Breakfast, hotel checkout, and transfer to the airport."
+        }
+      ],
+      "included": [
+        "4-Star Hotel Accommodation",
+        "Daily Breakfast",
+        "Airport Pickup & Drop",
+        "Mount Fuji Guided Tour",
+        "City Sightseeing Pass"
+      ],
+      "excluded": [
+        "International Flights",
+        "Lunch & Dinner",
+        "Personal Expenses",
+        "Travel Insurance"
+      ],
+      "availableDates": [
+        "2026-07-28",
+        "2026-08-30",
+        "2026-09-27",
+        "2026-10-31"
+      ],
+      "featured": true,
+      "packageId": "8"
+    },
+    {
+      "id": "iFtpxRBlQKI",
+      "title": "Santorini Sunset Romance",
+      "location": "Santorini",
+      "country": "Greece",
+      "category": "Luxury",
+      "price": 86999,
+      "duration": 6,
+      "rating": 4.9,
+      "reviewCount": 447,
+      "coverImage": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff",
+      "gallery": [
+        "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff",
+        "https://images.unsplash.com/photo-1469796466635-455ede028aca",
+        "https://images.unsplash.com/photo-1500375592092-40eb2168fd21"
+      ],
+      "description": "Experience the breathtaking beauty of Santorini, where whitewashed cliffside villages, blue-domed churches, volcanic beaches, and unforgettable sunsets create the perfect Mediterranean getaway. Discover charming streets, indulge in authentic Greek cuisine, and relax with spectacular views of the Aegean Sea.",
+      "highlights": [
+        "Sunset at Oia Village",
+        "Catamaran Cruise Around the Caldera",
+        "Red Beach & Black Sand Beach Visit",
+        "Wine Tasting at a Local Vineyard",
+        "Explore Fira's Cliffside Streets"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival in Santorini",
+          "description": "Airport pickup, hotel check-in, and enjoy an evening stroll through Fira with panoramic sea views."
+        },
+        {
+          "day": 2,
+          "title": "Oia & Sunset Tour",
+          "description": "Visit the picturesque village of Oia, explore boutique shops, and witness Santorini's world-famous sunset."
+        },
+        {
+          "day": 3,
+          "title": "Caldera Cruise",
+          "description": "Sail around the volcanic caldera, swim in hot springs, and enjoy a delicious meal onboard."
+        },
+        {
+          "day": 4,
+          "title": "Beach & Vineyard Experience",
+          "description": "Relax at Red Beach and Black Sand Beach before visiting a traditional Santorini winery."
+        },
+        {
+          "day": 5,
+          "title": "Leisure & Local Exploration",
+          "description": "Spend the day exploring charming villages, local cafés, and souvenir markets at your own pace."
+        },
+        {
+          "day": 6,
+          "title": "Departure",
+          "description": "Breakfast, hotel checkout, and airport transfer."
+        }
+      ],
+      "included": [
+        "Luxury Hotel Accommodation",
+        "Daily Breakfast",
+        "Airport Pickup & Drop",
+        "Caldera Catamaran Cruise",
+        "Guided Santorini Sightseeing"
+      ],
+      "excluded": [
+        "International Flights",
+        "Lunch & Dinner",
+        "Personal Expenses",
+        "Travel Insurance"
+      ],
+      "availableDates": [
+        "2026-07-26",
+        "2026-08-31",
+        "2026-09-28",
+        "2026-10-30"
+      ],
+      "featured": true,
+      "packageId": "14"
+    }
+  ],
+  "bookings": [
+    {
+      "bookingReference": "TS-1782572908311",
+      "packageId": "4",
+      "packageTitle": "Swiss Alps Adventure",
+      "travelDate": "2004-06-05",
+      "travellers": 1,
+      "fullName": "NAVEEN P",
+      "email": "naveen.dpsn300@gmail.com",
+      "phone": "9344337287",
+      "totalAmount": 89999,
+      "bookingDate": "2026-06-27T15:08:28.311Z",
+      "status": "Confirmed",
+      "id": "otYE7mILHqM"
+    },
+    {
+      "bookingReference": "TS-1782580208804",
+      "packageId": "1",
+      "packageTitle": "Explore Bali Paradise",
+      "travelDate": "2004-06-05",
+      "travellers": 1,
+      "fullName": "Akash",
+      "email": "akash@gmail.com",
+      "phone": "9344337287",
+      "totalAmount": 45999,
+      "bookingDate": "2026-06-27T17:10:08.804Z",
+      "status": "Confirmed",
+      "id": "wb2nXNmOnN4"
+    },
+    {
+      "bookingReference": "TS-1782656466979",
+      "packageId": "2",
+      "packageTitle": "Dubai Luxury Escape",
+      "travelDate": "2003-05-05",
+      "travellers": 1,
+      "fullName": "Akash",
+      "email": "bala@gmail.com",
+      "phone": "7418529744",
+      "totalAmount": 68999,
+      "bookingDate": "2026-06-28T14:21:06.979Z",
+      "status": "Confirmed",
+      "id": "EqHUFdVZq8Q"
+    },
+    {
+      "bookingReference": "TS-1782656489591",
+      "packageId": "2",
+      "packageTitle": "Dubai Luxury Escape",
+      "travelDate": "2003-05-05",
+      "travellers": 1,
+      "fullName": "Akash",
+      "email": "bala@gmail.com",
+      "phone": "7418529744",
+      "totalAmount": 68999,
+      "bookingDate": "2026-06-28T14:21:29.591Z",
+      "status": "Confirmed",
+      "id": "3UflzoL42DU"
+    },
+    {
+      "bookingReference": "TS-1782656666576",
+      "packageId": "2",
+      "packageTitle": "Dubai Luxury Escape",
+      "travelDate": "2004-06-05",
+      "travellers": 1,
+      "fullName": "NAVEEN P",
+      "email": "naveen.dpsn300@gmail.com",
+      "phone": "9344337287",
+      "totalAmount": 68999,
+      "bookingDate": "2026-06-28T14:24:26.576Z",
+      "status": "Confirmed",
+      "id": "rHB8LdNn4Tk"
+    },
+    {
+      "bookingReference": "TS-1782656705605",
+      "packageId": "2",
+      "packageTitle": "Dubai Luxury Escape",
+      "travelDate": "2004-06-05",
+      "travellers": 1,
+      "fullName": "NAVEEN P",
+      "email": "naveen.dpsn300@gmail.com",
+      "phone": "9344337287",
+      "totalAmount": 68999,
+      "bookingDate": "2026-06-28T14:25:05.605Z",
+      "status": "Confirmed",
+      "id": "kqjUoSaa4T8"
+    },
+    {
+      "bookingReference": "TS-1782656716575",
+      "packageId": "2",
+      "packageTitle": "Dubai Luxury Escape",
+      "travelDate": "2004-06-05",
+      "travellers": 1,
+      "fullName": "NAVEEN P",
+      "email": "naveen.dpsn300@gmail.com",
+      "phone": "9344337287",
+      "totalAmount": 68999,
+      "bookingDate": "2026-06-28T14:25:16.575Z",
+      "status": "Confirmed",
+      "id": "al3Seh2MTms"
+    },
+    {
+      "bookingReference": "TS-1782656886247",
+      "packageId": "3",
+      "packageTitle": "Romantic Paris Getaway",
+      "travelDate": "2004-06-05",
+      "travellers": 1,
+      "fullName": "NAVEEN P",
+      "email": "naveen.dpsn300@gmail.com",
+      "phone": "9344337287",
+      "totalAmount": 74999,
+      "bookingDate": "2026-06-28T14:28:06.247Z",
+      "status": "Confirmed",
+      "id": "X6ILEiqcd1g"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

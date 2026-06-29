@@ -1,0 +1,56 @@
+.booking-card {
+  height: 100%;
+  border-radius: 18px !important;
+  transition: 0.3s;
+}
+
+.booking-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 28px rgba(0,0,0,.08);
+}
+
+.booking-title {
+  font-weight: 700 !important;
+  margin-bottom: 24px !important;
+}
+
+.booking-details {
+  margin-bottom: 24px;
+}
+
+.booking-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.booking-row svg {
+  color: #1976d2;
+}
+
+.booking-status {
+  margin-bottom: 18px !important;
+}
+
+.booking-reference-title {
+  font-size: .85rem !important;
+  color: #757575;
+}
+
+.booking-reference {
+  font-weight: 600 !important;
+  margin-bottom: 24px !important;
+  word-break: break-all;
+}
+
+.booking-actions {
+  margin-top: auto;
+}
+
+@media (max-width:600px){
+
+.booking-actions{
+flex-direction:column;
+}
+
+}
