@@ -1,5 +1,5 @@
 import { apiRequest } from "./api";
-const BASE_URL = "https://travelsync-production.up.railway.app/";
+const BASE_URL = "https://travelsync-production.up.railway.app";
 
 export const getPackages = () => {
   return apiRequest("/packages");
