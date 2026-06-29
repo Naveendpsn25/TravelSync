@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:3001";
+const BASE_URL = "https://travelsync-production.up.railway.app";
 
 async function apiRequest(endpoint, options = {}) {
   const response = await fetch(`${BASE_URL}${endpoint}`, {
